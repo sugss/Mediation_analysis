@@ -1,4 +1,6 @@
 analysis/outputs
+*.DS_Store
+**sh_jobs_info
 
 
 # History files
