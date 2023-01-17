@@ -1,0 +1,22 @@
+---------------------------------------------------- 
+Gaussian finite mixture model fitted by EM algorithm 
+---------------------------------------------------- 
+
+Mclust VII (spherical, varying volume) model with 7 components: 
+
+ log-likelihood      n  df       BIC       ICL
+      -10741176 106398 538 -21488579 -21497193
+
+Clustering table:
+    1     2     3     4     5     6     7 
+28700 22243 48577  4484  1744   522   128 
+
+============================================
+
+        Job resource usage summary 
+
+                 Memory (GB)    NCPUs
+ Requested  :        50             1
+ Used       :         0 (peak)   0.56 (ave)
+
+============================================

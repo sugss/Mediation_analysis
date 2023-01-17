@@ -1,0 +1,28 @@
+Package 'mclust' version 5.4.7
+Type 'citation("mclust")' for citing this R package in publications.
+Registered S3 methods overwritten by 'tibble':
+  method     from  
+  format.tbl pillar
+  print.tbl  pillar
+Warning messages:
+1: replacing previous import ‘lifecycle::last_warnings’ by ‘rlang::last_warnings’ when loading ‘tibble’ 
+2: replacing previous import ‘lifecycle::last_warnings’ by ‘rlang::last_warnings’ when loading ‘pillar’ 
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:data.table’:
+
+    between, first, last
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+Error in if (loglik > signif(.Machine$double.xmax, 6)) { : 
+  missing value where TRUE/FALSE needed
+Calls: Mclust ... eval -> eval -> mclustBIC -> me -> eval -> eval -> meVVV
+Execution halted
